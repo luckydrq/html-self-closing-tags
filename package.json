@@ -1,0 +1,14 @@
+{
+  "name": "html-self-closing-tags",
+  "version": "1.0.0",
+  "keywords": [
+    "self-closing",
+    "tag",
+    "html"
+  ],
+  "author": "luckydrq<drqzju@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:luckydrq/html-self-closing-tags.git"
+  }
+}
